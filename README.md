@@ -1,9 +1,9 @@
 # Hi there, I'm HUYNH THANH PHAT 👋
-### 🚀 Software Engineering Student & Backend Developer
+### 🚀 Software Engineering Student & Cross-Platform Application & Game Developer
 
 <div align="center">
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Building+reliable+backend+systems.;Focused+on+Clean+Architecture+%26+DDD.;Exploring+Blockchain+%26+AI+integration." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Learning+Computer+Science+from+the+ground+up.;Building+cross-platform+applications+%26+DDD.;Creating+games+with+clean+%26+architecture." alt="Typing SVG" /></a>
   </p>
 </div>
 
