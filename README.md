@@ -4,7 +4,7 @@
 
 # Huynh Thanh Phat
 
-### Staff Software Engineer
+### Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+software+that+lasts.;Game+Engine+Architecture.;Graphics+Programming.;Distributed+Systems.;Open+Source+Contributor." />
 
