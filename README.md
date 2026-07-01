@@ -3,7 +3,9 @@
 
 <div align="center">
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Learning+Computer+Science+from+the+ground+up.;Building+cross-platform+applications+%26+DDD.;Creating+games+with+clean+%26+architecture." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps.;Creating+games+with+C%2B%2B.;Learning+Computer+Science.;Exploring+graphics+programming." alt="Typing SVG" />
+</a>
   </p>
 </div>
 
