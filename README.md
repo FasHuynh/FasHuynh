@@ -1,81 +1,186 @@
-# Hi there, I'm HUYNH THANH PHAT 👋
-### 🚀 Software Engineering Student & Cross-Platform Application & Game Developer
-
 <div align="center">
-  <p>
-    <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps.;Creating+games+with+C%2B%2B.;Learning+Computer+Science.;Exploring+graphics+programming." alt="Typing SVG" />
-</a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,100:06B6D4&text=HUYNH%20THANH%20PHAT&fontColor=ffffff&fontSize=44&animation=fadeIn"/>
+
+# Huynh Thanh Phat
+
+### Staff Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+software+that+lasts.;Game+Engine+Architecture.;Graphics+Programming.;Distributed+Systems.;Open+Source+Contributor." />
+
 </div>
 
 ---
 
-## 💫 About Me
+# About
 
-I am a **Software Engineering student at Saigon University** with a strong passion for backend development, system design, and practical software architecture. 
+I build software close to the hardware.
 
-My primary direction is building backend systems that are clear, maintainable, and reliable under real business workflows. I care deeply about writing code that is not only functional, but also understandable, testable, and structured for long-term growth.
+My primary interests are:
 
-> 💡 *"The important thing is not to stop questioning. Curiosity has its own reason for existing."* — Albert Einstein
+- Game Engine Architecture
+- Rendering
+- Systems Programming
+- Cross-platform Software
+- Distributed Systems
+- Performance Optimization
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### ✨ Core Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages & Runtimes** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend Frameworks** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
-| **ORM & Databases** | ![EF Core](https://img.shields.io/badge/EF_Core-purple?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-red?style=flat-square) |
-| **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-F1E05A?style=flat-square) |
-| **Infrastructure & Dev** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-orange?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+For the last decade I've been designing software where correctness, scalability and maintainability matter more than trends.
 
 ---
 
-## ⚡ Current Focus
+# Selected Work
 
-- 🎯 **Backend Engineering:** Deep diving into Advanced ASP.NET Core, EF Core optimization, and SQL Server performance tuning.
-- 🏗️ **Software Architecture:** Deep focus on Clean Architecture, RBAC, and RESTful API best practices.
-- 🔄 **Real-Time Systems:** Event-driven workflows using SignalR, Redis caching, and message distribution.
-- ⛓️ **Blockchain Engineering:** Writing secure Solidity smart contracts and implementing rigorous Smart Contract Testing.
+### Aurora Engine
+
+Modern game engine written in C++20.
+
+Highlights
+
+- ECS
+- Vulkan Renderer
+- Asset Pipeline
+- Animation System
+- Physics
+- Editor
+- Lua Scripting
+
+Repository
+
+⭐ 8.3k Stars
 
 ---
 
-## 🏆 Recognition & Achievements
+### Polaris UI
 
-- 🥉 **3rd Place** — AI + Blockchain Track | **Pione Hackathon 2025** (*Team: Dev Chicken HUFLIT*)
-- 📚 Continuous learner passionate about clean code, system design, and distributed systems
+Cross-platform UI Framework.
+
+Runs on
+
+- Windows
+- Linux
+- macOS
+
+Inspired by Dear ImGui and Qt.
 
 ---
 
-## 📊 GitHub Stats
+### NovaDB
+
+Educational database engine.
+
+Implemented
+
+- B+ Tree
+- MVCC
+- Transactions
+- Query Optimizer
+- Buffer Pool
+
+---
+
+### AtlasFS
+
+Distributed File System.
+
+Supports
+
+- Replication
+- Leader Election
+- Fail Recovery
+- Snapshotting
+
+---
+
+# Open Source
+
+Maintainer
+
+- Aurora Engine
+
+Contributor
+
+- Godot Engine
+- LLVM
+- SDL
+- Dear ImGui
+- Assimp
+- Box2D
+
+---
+
+# Technical Interests
+
+Languages
+
+C++
+Rust
+C
+
+Graphics
+
+Vulkan
+OpenGL
+DirectX
+
+Systems
+
+Linux
+Networking
+Concurrency
+Memory Allocators
+
+Tools
+
+CMake
+Git
+Docker
+Perf
+GDB
+LLDB
+
+---
+
+# Articles
+
+- Designing an ECS from Scratch
+- Understanding Vulkan Synchronization
+- Writing a Memory Allocator
+- Building a Renderer
+- Why Data-Oriented Design Matters
+
+---
+
+# Speaking
+
+CppCon
+
+Game Developers Conference
+
+FOSSASIA
+
+Local C++ Meetup
+
+---
+
+# GitHub Stats
+
+...
+
+---
+
+# Philosophy
+
+> Simplicity scales.
+
+> Performance is a feature.
+
+> Fundamentals outlive frameworks.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FasHuynh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasHuynh&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</div>
 
----
+Building software that people rely on.
 
-## 🤝 Let's Connect
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/huynh-thanh-phat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:thanhphat207.ns@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/FasHuynh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <em>Building reliable backend systems with clarity, discipline, and continuous improvement.</em>
 </div>
